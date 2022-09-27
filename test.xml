@@ -1,1 +1,79 @@
-<mxfile userAgent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" version="7.9.7" editor="www.draw.io" type="github"><diagram>UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-27T15:33:14.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.7" etag="EfHVr3eIvhhWnxJyXC9O" type="github">
+  <diagram id="0" name="第 1 页">
+    <mxGraphModel dx="1292" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4WUSSB55a2oXntJRv5Ka-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/green-world-colored/80/electric-car-electrocar-tesla-128.png" vertex="1" parent="1">
+          <mxGeometry x="90" y="190" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="4WUSSB55a2oXntJRv5Ka-4" value="汕头" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/flat-christmas-icons-1/75/_city_snowglobe-128.png" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="4WUSSB55a2oXntJRv5Ka-5" value="潮州" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/filled-line-christmas-icons/75/_city_snowglobe-128.png" vertex="1" parent="1">
+          <mxGeometry x="630" y="222" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="4WUSSB55a2oXntJRv5Ka-6" value="南澳岛" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flags-37/300/solomon_islands-national-world-128.png" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="4WUSSB55a2oXntJRv5Ka-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="220" as="sourcePoint" />
+            <mxPoint x="340" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4WUSSB55a2oXntJRv5Ka-8" value="深圳" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/building-vol-9/512/1-128.png" vertex="1" parent="1">
+          <mxGeometry x="80" y="20" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="4WUSSB55a2oXntJRv5Ka-10" value="厦门" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/line-christmas-icons/75/_city_snowglobe-128.png" vertex="1" parent="1">
+          <mxGeometry x="980" y="20" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="4WUSSB55a2oXntJRv5Ka-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="4WUSSB55a2oXntJRv5Ka-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="240" as="sourcePoint" />
+            <mxPoint x="460" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4WUSSB55a2oXntJRv5Ka-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="410" as="sourcePoint" />
+            <mxPoint x="640" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4WUSSB55a2oXntJRv5Ka-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="220" as="sourcePoint" />
+            <mxPoint x="500" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4WUSSB55a2oXntJRv5Ka-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="110" as="sourcePoint" />
+            <mxPoint x="230" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4WUSSB55a2oXntJRv5Ka-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="130" as="sourcePoint" />
+            <mxPoint x="960" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4WUSSB55a2oXntJRv5Ka-16" value="海鲜&lt;br&gt;沙滩&lt;br&gt;赶海" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="330" width="140" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="4WUSSB55a2oXntJRv5Ka-17" value="古城&lt;br&gt;潮汕菜" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;flipH=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="720" y="358" width="140" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="4WUSSB55a2oXntJRv5Ka-18" value="牛肉火锅&lt;br&gt;卤水火锅&lt;br&gt;潮汕生腌" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;flipH=0;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="480" y="30" width="140" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="4WUSSB55a2oXntJRv5Ka-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/strokeline/128/02_icons-128.png" vertex="1" parent="1">
+          <mxGeometry x="470" y="460" width="44" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="4WUSSB55a2oXntJRv5Ka-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/strokeline/128/02_icons-128.png" vertex="1" parent="1">
+          <mxGeometry x="768" y="260" width="44" height="44" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
